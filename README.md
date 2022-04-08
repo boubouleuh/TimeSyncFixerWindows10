@@ -10,3 +10,5 @@ This application allows you to synchronize the time of Windows 10 in one click, 
 How to build?
 
 With auto-py-to-exe or py2exe
+
+(Warning ! Antivirus can detect this app as a malware)
